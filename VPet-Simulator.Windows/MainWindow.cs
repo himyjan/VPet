@@ -2715,19 +2715,19 @@ namespace VPet_Simulator.Windows
             {
 
                 case 16:
-                    sayny = "哈基米曼波~马儿跳马儿跳~你的爱马啊！\n闪耀优骏萝莉斯祝主人马年健康，身体健康如马娘，万马奔腾不停歇！".Translate();
+                    sayny = "白龙马，蹄朝西~马儿你跑快点啊~神马都是浮云~\n小马萝莉斯祝主人马年顺利，万事顺利，前途无阻，万马奔腾不停歇！".Translate();
                     break;
                 case 17:
                     sayny = "马什么梅？什么冬梅？马冬什么？\n演员萝莉斯祝主人马年大智，学业进步，智商增加，考试满分！".Translate();
                     break;
                 case 18:
-                    sayny = "老马啊！！！哎！老马啊！！啊——！\n主播萝莉斯祝主人马年快乐，心情轻松快乐，烦恼统统飞走！".Translate();
+                    sayny = "老马啊！！！哎！老马啊——！\n主播萝莉斯祝主人马年快乐，心情轻松快乐，烦恼统统飞走！".Translate();
                     break;
                 case 19:
                     sayny = "我大意了啊没有闪，小主人你不讲武德！吃我闪电五连鞭！\n马掌门人萝莉斯祝主人马年安康，功夫有长进，技术有进步，能力会出众！".Translate();
                     break;
                 case 20:
-                    sayny = "敢O我的马？！把你马马抓走！\n六星萝莉斯祝主人马年大运，抽卡出金一发入魂，装备掉落出红满仓！".Translate();
+                    sayny = "哈基米曼波~马儿跳马儿跳~\n六星萝莉斯祝主人马年大运，抽卡出金一发入魂，装备掉落出红满仓！".Translate();
                     break;
                 case 21:
                     sayny = "哎致命空枪，哎打腿没死，哎又空枪。我柜子动了我不玩了。\n游戏萝莉斯祝主人马年变强，枪枪爆头好运连连，把把第一永不马枪！".Translate();
@@ -2737,7 +2737,7 @@ namespace VPet_Simulator.Windows
                     break;
                 default:
                 case 23:
-                    sayny = "马喽的命也是命！\n打工人萝莉斯祝主人马年发财，返工赚大钱，今年一定发！马到成功！\n".Translate();
+                    sayny = "马喽的命也是命！\n打工人萝莉斯祝主人马年发财，返工赚大钱，今年一定发！马到成功！".Translate();
                     break;
             }
             Main.SayRnd(sayny);
